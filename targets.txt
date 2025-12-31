@@ -1,0 +1,4 @@
+GET http://httpbin.org/get
+GET http://httpbin.org/status/200
+GET http://httpbin.org/delay/1
+

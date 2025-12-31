@@ -1,0 +1,4 @@
+POST https://bnb-chain-jsonrpc.dev-smart-router.magmadevs.com:443
+Content-Type: application/json
+@smart_router_body.json
+
